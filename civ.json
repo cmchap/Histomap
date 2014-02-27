@@ -1,6 +1,6 @@
-{
+[{
     "name"    : "Maya",
-    "color"   : "#E96F49", //orange
+    "color"   : "#E96F49",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -87,7 +87,7 @@
 },
 {
     "name"    : "South America",
-    "color"   : "#E96F49", //orange
+    "color"   : "#E96F49",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -174,7 +174,7 @@
 },
 {
     "name"    : "United States",
-    "color"   : "#93AAA6", //blue
+    "color"   : "#93AAA6",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -261,7 +261,7 @@
 },
 {
     "name"    : "Australia",
-    "color"   : "#EBB6A8", //light pink
+    "color"   : "#EBB6A8",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -348,7 +348,7 @@
 },
 {
     "name"    : "New Zealand",
-    "color"   : "#EBB6A8", //light pink
+    "color"   : "#EBB6A8",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -435,7 +435,7 @@
 },
 {
     "name"    : "Canada",
-    "color"   : "#EBB6A8", //light pink
+    "color"   : "#EBB6A8",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -522,7 +522,7 @@
 },
 {
     "name"    : "South Africa",
-    "color"   : "#EBB6A8", //light pink
+    "color"   : "#EBB6A8",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -609,7 +609,7 @@
 },
 {
     "name"    : "England",
-    "color"   : "#E89A99", //pink
+    "color"   : "#E89A99",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -696,7 +696,7 @@
 },
 {
     "name"    : "Sweden",
-    "color"   : "#EAD876", //yellow
+    "color"   : "#EAD876",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -783,7 +783,7 @@
 },
 {
     "name"    : "Norway",
-    "color"   : "#669065", //green
+    "color"   : "#669065",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -870,7 +870,7 @@
 },
 {
     "name"    : "Norway",
-    "color"   : "#E89A99", //pink
+    "color"   : "#E89A99",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -957,7 +957,7 @@
 },
 {
     "name"    : "Denmark",
-    "color"   : "#93AAA6", //blue
+    "color"   : "#93AAA6",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -1044,7 +1044,7 @@
 },
 {
     "name"    : "Teutons",
-    "color"   : "#E96F49", //orange
+    "color"   : "#E96F49",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -1131,7 +1131,7 @@
 },
 {
     "name"    : "Goths",
-    "color"   : "#669065", //green
+    "color"   : "#669065",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -1218,7 +1218,7 @@
 },
 {
     "name"    : "Western Rome",
-    "color"   : "#EBB6A8", //light pink
+    "color"   : "#EBB6A8",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -1305,7 +1305,7 @@
 },
 {
     "name"    : "Lombards",
-    "color"   : "#EAD876", //yellow
+    "color"   : "#EAD876",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -1392,7 +1392,7 @@
 },
 {
     "name"    : "Normandy",
-    "color"   : "#E96F49", //orange
+    "color"   : "#E96F49",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -1479,7 +1479,7 @@
 },
 {
     "name"    : "Belgium",
-    "color"   : "#93AAA6", //blue
+    "color"   : "#93AAA6",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -1566,7 +1566,7 @@
 },
 {
     "name"    : "France",
-    "color"   : "#E89A99", //pink
+    "color"   : "#E89A99",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -1653,7 +1653,7 @@
 },
 {
     "name"    : "Spain",
-    "color"   : "#EAD876", //yellow
+    "color"   : "#EAD876",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -1740,7 +1740,7 @@
 },
 {
     "name"    : "Portugal",
-    "color"   : "#93AAA6", //blue
+    "color"   : "#93AAA6",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -1827,7 +1827,7 @@
 },
 {
     "name"    : "Germany",
-    "color"   : "#E89A99", //pink
+    "color"   : "#E89A99",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -1914,7 +1914,7 @@
 },
 {
     "name"    : "Holy Roman Empire",
-    "color"   : "#669065", //green
+    "color"   : "#669065",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -2001,7 +2001,7 @@
 },
 {
     "name"    : "Switzerland",
-    "color"   : "#93AAA6", //blue
+    "color"   : "#93AAA6",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -2088,7 +2088,7 @@
 },
 {
     "name"    : "Hungary",
-    "color"   : "#E89A99", //pink
+    "color"   : "#E89A99",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -2175,7 +2175,7 @@
 },
 {
     "name"    : "Italy",
-    "color"   : "#E96F49", //orange
+    "color"   : "#E96F49",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -2262,7 +2262,7 @@
 },
 {
     "name"    : "Papacy",
-    "color"   : "#EAD876", //yellow
+    "color"   : "#EAD876",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -2349,7 +2349,7 @@
 },
 {
     "name"    : "Egyptians2",
-    "color"   : "#669065", //green
+    "color"   : "#669065",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -2436,7 +2436,7 @@
 },
 {
     "name"    : "Romans",
-    "color"   : "#E89A99", //pink
+    "color"   : "#E89A99",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -2523,7 +2523,7 @@
 },
 {
     "name"    : "Sassanian Persians",
-    "color"   : "#CBCCB8", //grey
+    "color"   : "#CBCCB8",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -2610,7 +2610,7 @@
 },
 {
     "name"    : "Romania",
-    "color"   : "#93AAA6", //blue
+    "color"   : "#93AAA6",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -2697,7 +2697,7 @@
 },
 {
     "name"    : "Bulgaria",
-    "color"   : "#EAD876", //yellow
+    "color"   : "#EAD876",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -2784,7 +2784,7 @@
 },
 {
     "name"    : "Greeks",
-    "color"   : "#669065", //green
+    "color"   : "#669065",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -2866,12 +2866,12 @@
     "1850ad"  : 11,
     "1900ad"  : 22,
     "1950ad"  : 23,
-    "2000ad"  : 23,
+    "2000ad"  : 23
     }
 },
 {
     "name"    : "Aegeans",
-    "color"   : "#E96F49", //orange
+    "color"   : "#E96F49",
     "metrics" : {
     "2000bc"  : 131,
     "1950bc"  : 145,
@@ -2958,7 +2958,7 @@
 },
 {
     "name"    : "Egyptians1",
-    "color"   : "#E89A99", //pink
+    "color"   : "#E89A99",
     "metrics" : {
     "2000bc"  : 476,
     "1950bc"  : 425,
@@ -3045,7 +3045,7 @@
 },
 {
     "name"    : "Ethiopians",
-    "color"   : "#669065", //green
+    "color"   : "#669065",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -3127,12 +3127,12 @@
     "1850ad"  : 0,
     "1900ad"  : 0,
     "1950ad"  : 0,
-    "2000ad"  : 0,
+    "2000ad"  : 0
     }
 },
 {
     "name"    : "Lydians",
-    "color"   : "#93AAA6", //blue
+    "color"   : "#93AAA6",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -3214,12 +3214,12 @@
     "1850ad"  : 0,
     "1900ad"  : 0,
     "1950ad"  : 0,
-    "2000ad"  : 0,
+    "2000ad"  : 0
     }
 },
 {
     "name"    : "Hittites",
-    "color"   : "#EAD876", //yellow
+    "color"   : "#EAD876",
     "metrics" : {
     "2000bc"  : 27,
     "1950bc"  : 27,
@@ -3306,7 +3306,7 @@
 },
 {
     "name"    : "Phoenecians",
-    "color"   : "#E96F49", //orange
+    "color"   : "#E96F49",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -3388,12 +3388,12 @@
     "1850ad"  : 0,
     "1900ad"  : 0,
     "1950ad"  : 0,
-    "2000ad"  : 0,
+    "2000ad"  : 0
     }
 },
 {
     "name"    : "Syrians",
-    "color"   : "#EAD876", //yellow
+    "color"   : "#EAD876",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -3475,12 +3475,12 @@
     "1850ad"  : 0,
     "1900ad"  : 0,
     "1950ad"  : 0,
-    "2000ad"  : 0,
+    "2000ad"  : 0
     }
 },
 {
     "name"    : "Hebrews",
-    "color"   : "#E89A99", //pink
+    "color"   : "#E89A99",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -3562,12 +3562,12 @@
     "1850ad"  : 0,
     "1900ad"  : 0,
     "1950ad"  : 0,
-    "2000ad"  : 0,
+    "2000ad"  : 0
     }
 },
 {
     "name"    : "Assyrians",
-    "color"   : "#93AAA6", //blue
+    "color"   : "#93AAA6",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -3649,12 +3649,12 @@
     "1850ad"  : 0,
     "1900ad"  : 0,
     "1950ad"  : 0,
-    "2000ad"  : 0,
+    "2000ad"  : 0
     }
 },
 {
     "name"    : "Amorites",
-    "color"   : "#669065", //green
+    "color"   : "#669065",
     "metrics" : {
     "2000bc"  : 79,
     "1950bc"  : 106,
@@ -3741,7 +3741,7 @@
 },
 {
     "name"    : "Seleucids",
-    "color"   : "#CBCCB8", //grey
+    "color"   : "#CBCCB8",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -3823,12 +3823,12 @@
     "1850ad"  : 0,
     "1900ad"  : 0,
     "1950ad"  : 0,
-    "2000ad"  : 0,
+    "2000ad"  : 0
     }
 },
 {
     "name"    : "Iranians",
-    "color"   : "#93AAA6", //blue
+    "color"   : "#93AAA6",
     "metrics" : {
     "2000bc"  : 72,
     "1950bc"  : 105,
@@ -3915,7 +3915,7 @@
 },
 {
     "name"    : "Parthians",
-    "color"   : "#93AAA6", //blue
+    "color"   : "#93AAA6",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -4002,7 +4002,7 @@
 },
 {
     "name"    : "Bactrians",
-    "color"   : "#669065", //green
+    "color"   : "#669065",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -4089,7 +4089,7 @@
 },
 {
     "name"    : "Arabs",
-    "color"   : "#669065", //green
+    "color"   : "#669065",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -4176,7 +4176,7 @@
 },
 {
     "name"    : "Persia",
-    "color"   : "#669065", //green
+    "color"   : "#669065",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -4263,7 +4263,7 @@
 },
 {
     "name"    : "Seljuk Turks",
-    "color"   : "#93AAA6", //blue
+    "color"   : "#93AAA6",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -4350,7 +4350,7 @@
 },
 {
     "name"    : "Afghans",
-    "color"   : "#669065", //green
+    "color"   : "#669065",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -4437,7 +4437,7 @@
 },
 {
     "name"    : "Serbia",
-    "color"   : "#EAD876", //yellow
+    "color"   : "#EAD876",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -4524,7 +4524,7 @@
 },
 {
     "name"    : "Poland",
-    "color"   : "#E96F49", //orange
+    "color"   : "#E96F49",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -4611,7 +4611,7 @@
 },
 {
     "name"    : "Russia",
-    "color"   : "#EAD876", //yellow
+    "color"   : "#EAD876",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -4698,7 +4698,7 @@
 },
 {
     "name"    : "Ghaznivids",
-    "color"   : "#669065", //green
+    "color"   : "#669065",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -4785,7 +4785,7 @@
 },
 {
     "name"    : "Indians",
-    "color"   : "#E89A99", //pink
+    "color"   : "#E89A99",
     "metrics" : {
     "2000bc"  : 83,
     "1950bc"  : 79,
@@ -4872,7 +4872,7 @@
 },
 {
     "name"    : "Huns",
-    "color"   : "#EAD876", //yellow
+    "color"   : "#EAD876",
     "metrics" : {
     "2000bc"  : 48,
     "1950bc"  : 41,
@@ -4959,7 +4959,7 @@
 },
 {
     "name"    : "Chinese",
-    "color"   : "#E96F49", //orange
+    "color"   : "#E96F49",
     "metrics" : {
     "2000bc"  : 83,
     "1950bc"  : 71,
@@ -5046,7 +5046,7 @@
 },
 {
     "name"    : "Japan",
-    "color"   : "#669065", //green
+    "color"   : "#669065",
     "metrics" : {
     "2000bc"  : 0,
     "1950bc"  : 0,
@@ -5130,4 +5130,4 @@
     "1950ad"  : 68,
     "2000ad"  : 68
     }
-}
+}]
